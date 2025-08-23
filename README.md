@@ -1,2 +1,2 @@
 # Python_notes
-Teoría y práctica con Python 
+Teoría y práctica con Python básico
